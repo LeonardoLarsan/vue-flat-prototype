@@ -1,2 +1,2 @@
-const vueFlat = require('./src/vue-flat');
-module.exports = vueFlat; 
+import FullInput from './src/FullInput/FullInput'
+export { FullInput }

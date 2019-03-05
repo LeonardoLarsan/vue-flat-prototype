@@ -2,7 +2,7 @@
   "name": "vue-flat-environment",
   "version": "0.1.0",
   "private": true,
-  "main": "./src/vue-flat/index.js",
+  "main": "./index",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
