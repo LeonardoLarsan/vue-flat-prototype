@@ -1,2 +1,2 @@
 import * as vueFlat from './src/vue-flat'
-export { vueFlat }
+export default vueFlat
