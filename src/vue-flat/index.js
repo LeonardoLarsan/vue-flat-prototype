@@ -1,3 +1,3 @@
-import FullInput from './FullInput/FullInput'
+import FullInput from './FullInput/FullInput/index.vue'
 
 export { FullInput }
