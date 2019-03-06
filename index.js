@@ -1,2 +1,2 @@
-import * as vueFlat from './src/vue-flat/FullInput'
+import * as vueFlat from './src/vue-flat'
 export { vueFlat }
